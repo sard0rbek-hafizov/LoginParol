@@ -1,0 +1,5 @@
+1,Hafziov Sardorbek,hafizov_sardorbek,2003,SuperAdmin
+2,Hafziov Sanjarbek,hafizov_sanjarbek,2005,Admin
+2,Hafziov Mehriddin,hafizov_sanjarbek,2011,Mijoz
+2,Hafziov Sarvarjon,hafizov_sarvarjon,1997,Mijoz
+2,Hafziov Suxrobbek,hafizov_suxrobbek,2001,Mijoz

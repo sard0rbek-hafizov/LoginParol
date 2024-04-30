@@ -1,0 +1,6 @@
+0,Hafziov Mehriddin,hafizov_sanjarbek,2011,Mijoz
+
+1,Hafziov Sarvarjon,hafizov_sarvarjon,1997,Mijoz
+
+2,Hafziov Suxrobbek,hafizov_suxrobbek,2001,Mijoz
+
